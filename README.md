@@ -1,17 +1,41 @@
-# Windows-RDP-ACTIONS  youtube : EKLESIA TOP
+## If Error Showed
+
+Just Download This Whole repository And make new repo in your GitHub account and upload all the files
+
+# Video Guide
 
 
 
-### Option 1 (Easiest way 🚑- No sound) 
+Credit: netslutter & lrtanvir for the video 😁
 
-1) Go https://remotedesktop.google.com/headless and login if needed.
-2) Copy Powershell command that page.
-3) Go actions tab in your forked repo.
-4) Select `Chrome Remote Desktop`
-5) Trigger action with your desired 6 digit pin and paste command in step 1.
-6) Go again step 1 link in remote Support tab.
-7) When setup finished , you can see the machine in list , write your pin and connect.
-8) Enjoy! ☕
-9) When you're done introspecting, cancel the job.
+# Free RDP 6 HOURS
 
+it's all free, don't be stingy ⭐️ yes: D
 
+### HOW TO CREATE Oshekher-RDP
+```
+> Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
+
+> visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN
+
+> Inside this Repo Go to Settings> Secrets> New repository secret
+
+> Fill in the Name: Enter NGROK_AUTH_TOKEN
+
+> Fill in Value: Visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste in the value
+
+> Press Add secret 
+
+> Go to Action> CI> Run workflow
+
+> Refresh Web and go to CI> build
+
+> Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
+```
+### WARN
+
+THIS IS ONLY FOR EDUCATIONAL PURPOSES
+
+DON'T USE FOR MINING OR ILLEGAL USE
+
+DON'T RECODE THIS SC!
